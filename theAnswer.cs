@@ -1,3 +1,5 @@
+// Compile using msc theAnswer.cs
+
 using System;
 
 namespace TheQuestion
